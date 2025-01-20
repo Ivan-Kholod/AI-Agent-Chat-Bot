@@ -1,3 +1,3 @@
 # AI-Agent-Chat-Bot
 
-This will be a trial to learn how to set up an AI agent chat bot. Nothing too fancy.
+Building a comprehensive financial markets chatbot that will potnetially offer as a service. No further detiails before branding and other business setups.
